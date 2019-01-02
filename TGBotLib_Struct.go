@@ -3,7 +3,7 @@ package TGBotLib
 // 基本建構體：Update_GetMe
 //
 // 如文件：https://core.telegram.org/bots/api#getme
-//  所說，就是一個 Result 裡面包著 User 的 JSON。
+// 所說，就是一個 Result 裡面包著 User 的 JSON。
 //
 // 為讓部份建構體可被導出，因此部份名稱有修改過。請參考 `json:"xxx"`
 // 得知原本代表的項目。
